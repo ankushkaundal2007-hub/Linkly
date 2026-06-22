@@ -58,7 +58,6 @@ Create custom short links, generate QR codes instantly, and manage all your URLs
 
 ## 🏠 Home Page
 
-> Add screenshot here
 
 ![Home Page](./screenshots/home.png)
 
@@ -66,15 +65,12 @@ Create custom short links, generate QR codes instantly, and manage all your URLs
 
 ## 🔐 Login Page
 
-> Add screenshot here
-
 ![Login Page](./screenshots/login.png)
 
 ---
 
 ## 🔗 URL Generator
 
-> Add screenshot here
 
 ![URL Generator](./screenshots/generator.png)
 
@@ -82,7 +78,6 @@ Create custom short links, generate QR codes instantly, and manage all your URLs
 
 ## 📊 Dashboard
 
-> Add screenshot here
 
 ![Dashboard](./screenshots/dashboard.png)
 
@@ -90,7 +85,6 @@ Create custom short links, generate QR codes instantly, and manage all your URLs
 
 ## 📱 QR Code Generation
 
-> Add screenshot here
 
 ![QR Code](./screenshots/qr.png)
 
@@ -98,15 +92,12 @@ Create custom short links, generate QR codes instantly, and manage all your URLs
 
 ## ℹ️ About Page
 
-> Add screenshot here
-
 ![About](./screenshots/about.png)
 
 ---
 
 ## 📞 Contact Page
 
-> Add screenshot here
 
 ![Contact](./screenshots/contact.png)
 
@@ -136,10 +127,6 @@ Create a `.env.local` file in the root directory.
 
 ```env
 MONGODB_URI=
-
-NEXTAUTH_URL=http://localhost:3000
-
-NEXTAUTH_SECRET=
 
 GOOGLE_ID=
 
